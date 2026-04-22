@@ -1,0 +1,1 @@
+MATCH (p:Persona) WHERE p.nombre = 'Ana' RETURN p;
